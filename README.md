@@ -5,7 +5,7 @@
 
 <li> mess with it a little bit and create a simple little project.</li>
 
-A light package for compiling Sass and running a dev server
+### A light package for compiling Sass and running a dev server
 
 ### Version
 1.0.0
